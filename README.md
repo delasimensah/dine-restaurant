@@ -1,3 +1,3 @@
 <h1 align="center">
- Dine Restaurant
+ Dine Restaurant Website
 </h1>
