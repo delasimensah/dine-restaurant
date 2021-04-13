@@ -1,3 +1,1 @@
-<h1 align="center">
- Dine Restaurant
-</h1>
+## [Demo](https://dine-dm.netlify.app/)
